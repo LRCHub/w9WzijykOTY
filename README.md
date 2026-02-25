@@ -1,0 +1,61 @@
+# Brent Faiyaz – pure fantasy.
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.62] Be whoever you want
+[00:16.71] I'll be whoever I want with you
+[00:23.26] You got me open, babe
+[00:27.16] But you gotta trust me too (trust me too)
+[00:33.15] And when you walk the town
+[00:38.21] People always stop and stare, oh
+[00:44.47] And I love when you come around
+[00:49.52] I'll take you everywhere
+[00:52.99] I want you in my world
+[01:03.99] 
+[00:55.63] And I think about (huh)
+[00:58.52] The way you make me feel when we're alone, alone
+[01:06.17] And I think about (huh)
+[01:09.39] The way the shit get real when we get home
+[01:30.39] 
+[01:17.20] Girl, it's pure
+[01:22.31] You're all I need
+[01:26.32] (You're all I need)
+[01:28.02] Girl, it's pure
+[01:33.40] Pure fantasy
+[01:37.19] What do you dream about?
+[01:49.19] 
+[01:38.86] Girl, it's pure (yeah, yeah)
+[01:44.56] You're all I need (baby)
+[01:48.04] Your eyes can be so pure (oh)
+[01:54.01] Pure fantasy
+[01:59.27] Fantasy
+[02:02.77] 
+[02:02.31] Hopefully, if you dream what I dream, then
+[02:05.92] Maybe we can make our dreams come true
+[02:09.45] Only if, you know, you still believe in that kind of thing
+[02:15.54] I know I do
+[02:19.31] So let me help you
+[02:28.31] 
+[02:22.85] And I think about (huh)
+[02:25.88] The way you make me feel when we're alone, alone, yeah
+[02:33.43] And I think about, your love (huh)
+[02:36.76] The way the shit get real when we get home
+[02:42.15] (On the way right now)
+[02:53.15] 
+[02:44.49] Girl, it's pure
+[02:49.82] You're all I need (pure)
+[02:55.26] Girl, it's pure
+[03:00.77] Pure fantasy (fantasy)
+[03:11.77] 
+[03:05.75] Girl, it's pure (oh)
+[03:11.46] You're all I need
+[03:15.00] It's so pure, yeah (What do you dream about?)
+[03:17.08] Girl, it's pure (love as pure as water)
+[03:22.53] Pure fantasy
+[03:28.53] 
+[03:27.80] Girl, it's pure
+[03:33.58] You're all I need
+[03:38.86] Girl, it's pure
+[03:44.22] Pure fantasy
+```
