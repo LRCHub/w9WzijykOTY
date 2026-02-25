@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "pure fantasy.",
+  "base_artist": "Brent Faiyaz",
+  "createdAt": "2026-02-25T15:07:28.122653Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pure Fantasy",
+      "artist": "Atlesta",
+      "has_synced": true,
+      "path": "select/01_Pure_Fantasy_Atlesta.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "pure fantasy.",
+      "artist": "Brent Faiyaz",
+      "has_synced": true,
+      "path": "select/02_pure_fantasy._Brent_Faiyaz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "pure fantasy.",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/pl_01_pure_fantasy._Brent_Faiyaz.txt"
+    }
+  ]
+}
